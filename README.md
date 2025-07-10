@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **an AI-powered Resume Analyzer & Job Match Recommender (Full-Stack Project)**
+- 🔭 I’m currently working on **Student and Course Managament System (Full-Stack Project)**
 - 🌱 I’m sharpening my skills in **Spring Boot, ReactJS, AWS, Cloudflare, and System Design**
 - 💼 Completed several projects using **Java, Spring Boot, ReactJS, Tailwind CSS, and MySQL**
-- 📚 Actively learning about **Microservices, Docker, and Kubernetes**
+<!-- 📚 Actively learning about **Microservices, Docker, and Kubernetes**
 - 👯 I’m looking to collaborate on **open-source projects and real-world SaaS applications**
-- 🛠️ Tools I Use: `VS Code`, `IntelliJ IDEA`, `Postman`, `Git`, `Docker`
+- 🛠️ Tools I Use: `VS Code`, `IntelliJ IDEA`, `Postman`, `Git`, `Docker` -->
 
 ---
 
