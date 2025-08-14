@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Student and Course Managament System (Full-Stack Project)**
+- 🔭 I'm currently working on a project called **SmartBiz: AI-Powered Business Management Suite for SMEs**
 - 🌱 I’m sharpening my skills in **Spring Boot, ReactJS, AWS, Cloudflare, and System Design**
 - 💼 Completed several projects using **Java, Spring Boot, ReactJS, Tailwind CSS, and MySQL**
 <!-- 📚 Actively learning about **Microservices, Docker, and Kubernetes**
